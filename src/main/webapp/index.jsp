@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Commit 1</h2>
+<h2>Hello Commit 2</h2>
 </body>
 </html>
