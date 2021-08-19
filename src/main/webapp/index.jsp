@@ -11,7 +11,7 @@
   <h2>hello everyone</h2>
   <h2>hello everyone</h2>
   <p>DevOps dashboard and Pipeline UI</p>
-  
+  <p>DevOps dashboard and Pipeline UI</p>
   
 </body>
 </html>
